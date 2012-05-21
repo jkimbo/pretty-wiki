@@ -1,4 +1,3 @@
-pretty-wiki
-===========
+#Pretty Wiki
 
 Make Wikipedia more readable
