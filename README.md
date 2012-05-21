@@ -1,3 +1,3 @@
 #Pretty Wiki
 
-Make Wikipedia more readable
+A small Chrome extension to make Wikipedia more readable
