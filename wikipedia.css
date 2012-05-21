@@ -1,0 +1,11 @@
+body {
+  max-width: 1140px !important;
+  margin: 0 auto !important;
+  position: relative !important;
+  background: #ffffff !important;
+}
+
+#mw-page-base {
+  background: none !important;
+}
+

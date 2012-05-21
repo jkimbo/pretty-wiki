@@ -1,0 +1,15 @@
+{
+  "name": "Pretty Wiki",
+  "version": "0.1",
+  "description": "Make Wikipedia more readable",
+  "content_scripts": [
+    {
+      "matches": [
+        "http://*.wikipedia.org/*"
+      ],
+      "css": [
+        "wikipedia.css"
+      ]
+    }
+  ]
+}
